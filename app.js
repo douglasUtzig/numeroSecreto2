@@ -3,6 +3,7 @@ let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
+//comentário para fazer um commit
 //comentário para fazer um commit 
 
 function exibirTextoNaTela(tag, texto) {
